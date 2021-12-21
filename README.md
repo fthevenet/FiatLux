@@ -1,6 +1,10 @@
 # Fiat Lux
 A (very old) Lightwave 3D Object viewer
 
+![screenshot](OBJECTS/screenshot.png)
+
+⚠ **WARNING** ⚠
+
 This code is:
 * Very old (last changes in 2000)
 * Pretty poorly written
@@ -8,7 +12,7 @@ This code is:
 * Probably of no practical use to anyone anymore
 * Uploaded here for archiving purposes (and mostly out of nostalgia, tbh)
 
-Yet, amazingly enough, the binary still works just fine 20+ years latter on Windows 10 and current PC hardware.
+Yet, amazingly enough, the binary still works just fine 20+ years latter on Windows 10 and current PC hardware.  
 ¯\\\_(ツ)\_/¯
 
-![screenshot](OBJECTS/screenshot.png)
+
