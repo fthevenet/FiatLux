@@ -8,6 +8,7 @@ This code is:
 * Probably of no practical use to anyone anymore
 * Uploaded here for archiving purposes (and mostly out of nostalgia, tbh)
 
-Yet, amazingly enough, the binary still works just fine 20+ years latter on Windows 10 and current PC hardware (and *damn*, that thing runs *fast*!)
-
+Yet, amazingly enough, the binary still works just fine 20+ years latter on Windows 10 and current PC hardware.
 ¯\\\_(ツ)\_/¯
+
+![screenshot](OBJECTS/screenshot.png)
